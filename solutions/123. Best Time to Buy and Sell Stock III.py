@@ -1,7 +1,6 @@
 # LeetCode Problem 123. Best Time to Buy and Sell Stock III (Python)
 # Given an array for which the ith element is the price of a given stock on day i,
 # return the maximum profit after at most two transactions
-
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         if not prices:
