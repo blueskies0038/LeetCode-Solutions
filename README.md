@@ -15,6 +15,7 @@
 |806|[ Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)|[Python3](./solutions/806.%20Number%20of%20Lines%20To%20Write%20String.py)|28 ms|
 |807|[ Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Python3](./solutions/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.py)|68 ms|
 |816|[ Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/)|[Python3](./solutions/816.%20Ambiguous%20Coordinates.py)|48 ms|
+|832|[ Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python3](./solutions/832.%20Flipping%20an%20Image.py)|36 ms|
 |840|[ Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/)|[Python3](./solutions/840.%20Magic%20Squares%20In%20Grid.py)|40 ms|
 |841|[ Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Python3](./solutions/841.%20Keys%20and%20Rooms.py)|128 ms|
 |876|[ Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python3](./solutions/876.%20Middle%20of%20the%20Linked%20List.py)|32 ms|
