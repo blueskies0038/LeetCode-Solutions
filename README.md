@@ -19,6 +19,7 @@
 |840|[ Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/)|[Python3](./solutions/840.%20Magic%20Squares%20In%20Grid.py)|40 ms|
 |841|[ Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Python3](./solutions/841.%20Keys%20and%20Rooms.py)|128 ms|
 |852|[ Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Python3](./solutions/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py)|60 ms|
+|859|[ Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[Python3](./solutions/859.%20Buddy%20Strings.py)|40 ms|
 |876|[ Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python3](./solutions/876.%20Middle%20of%20the%20Linked%20List.py)|32 ms|
 |892|[ Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)|[Python3](./solutions/892.%20Surface%20Area%20of%203D%20Shapes.py)|84 ms|
 |917|[ Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[Python3](./solutions/917.%20Reverse%20Only%20Letters.py)|32 ms|
