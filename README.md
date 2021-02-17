@@ -24,3 +24,4 @@
 |876|[ Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python3](./solutions/876.%20Middle%20of%20the%20Linked%20List.py)|32 ms|
 |892|[ Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)|[Python3](./solutions/892.%20Surface%20Area%20of%203D%20Shapes.py)|84 ms|
 |917|[ Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[Python3](./solutions/917.%20Reverse%20Only%20Letters.py)|32 ms|
+|925|[ Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[Python3](./solutions/925.%20Long%20Pressed%20Name.py)|32 ms|
