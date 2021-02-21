@@ -25,3 +25,4 @@
 |892|[ Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)|[Python3](./solutions/892.%20Surface%20Area%20of%203D%20Shapes.py)|84 ms|
 |917|[ Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[Python3](./solutions/917.%20Reverse%20Only%20Letters.py)|32 ms|
 |925|[ Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[Python3](./solutions/925.%20Long%20Pressed%20Name.py)|32 ms|
+|935|[ Knight Dialer](https://leetcode.com/problems/knight-dialer/)|[Python3](./solutions/935.%20Knight%20Dialer.py)|1068 ms|
