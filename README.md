@@ -27,3 +27,4 @@
 |925|[ Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[Python3](./solutions/925.%20Long%20Pressed%20Name.py)|32 ms|
 |929|[ Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[Python3](./solutions/929.%20Unique%20Email%20Addresses.py)|48 ms|
 |935|[ Knight Dialer](https://leetcode.com/problems/knight-dialer/)|[Python3](./solutions/935.%20Knight%20Dialer.py)|1068 ms|
+|989|[ Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[Python3](./solutions/989.%20Add%20to%20Array-Form%20of%20Integer.py)|284 ms|
