@@ -28,3 +28,4 @@
 |929|[ Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[Python3](./solutions/929.%20Unique%20Email%20Addresses.py)|48 ms|
 |935|[ Knight Dialer](https://leetcode.com/problems/knight-dialer/)|[Python3](./solutions/935.%20Knight%20Dialer.py)|1068 ms|
 |989|[ Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[Python3](./solutions/989.%20Add%20to%20Array-Form%20of%20Integer.py)|284 ms|
+|999|[ Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)|[Python3](./solutions/999.%20Available%20Captures%20for%20Rook.py)|28 ms|
