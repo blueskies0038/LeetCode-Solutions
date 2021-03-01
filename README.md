@@ -6,6 +6,7 @@
 |15|[ 3Sum](https://leetcode.com/problems/3sum/)|[Python3](./solutions/15.%203Sum.py)|932 ms|
 |128|[ Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Python3](./solutions/128.%20Longest%20Consecutive%20Sequence.py)|56 ms|
 |165|[ Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[Python3](./solutions/165.%20Compare%20Version%20Numbers.py)|24 ms|
+|328|[ Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Python3](./solutions/328.%20Odd%20Even%20Linked%20List.py)|32 ms|
 |383|[ Ransom Note](https://leetcode.com/problems/ransom-note/)|[Python3](./solutions/383.%20Ransom%20Note.py)|52 ms|
 |434|[ Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[Python3](./solutions/434.%20Number%20of%20Segments%20in%20a%20String.py)|28 ms|
 |445|[ Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[Python3](./solutions/445.%20Add%20Two%20Numbers%20II.py)|80 ms|
