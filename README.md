@@ -6,6 +6,7 @@
 |15|[ 3Sum](https://leetcode.com/problems/3sum/)|[Python3](./solutions/15.%203Sum.py)|932 ms|
 |120|[ Triangle](https://leetcode.com/problems/triangle/)|[Python3](./solutions/120.%20Triangle.py)|56 ms|
 |128|[ Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Python3](./solutions/128.%20Longest%20Consecutive%20Sequence.py)|56 ms|
+|134|[ Gas Station](https://leetcode.com/problems/gas-station/)|[Python3](./solutions/134.%20Gas%20Station.py)|56 ms|
 |165|[ Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[Python3](./solutions/165.%20Compare%20Version%20Numbers.py)|24 ms|
 |179|[ Largest Number](https://leetcode.com/problems/largest-number/)|[Python3](./solutions/179.%20Largest%20Number.py)|72 ms|
 |328|[ Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Python3](./solutions/328.%20Odd%20Even%20Linked%20List.py)|32 ms|
