@@ -10,6 +10,7 @@
 |134|[ Gas Station](https://leetcode.com/problems/gas-station/)|[Python3](./solutions/134.%20Gas%20Station.py)|56 ms|
 |165|[ Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[Python3](./solutions/165.%20Compare%20Version%20Numbers.py)|24 ms|
 |179|[ Largest Number](https://leetcode.com/problems/largest-number/)|[Python3](./solutions/179.%20Largest%20Number.py)|72 ms|
+|228|[ Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Python3](./solutions/228.%20Summary%20Ranges.py)|40 ms|
 |328|[ Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Python3](./solutions/328.%20Odd%20Even%20Linked%20List.py)|32 ms|
 |383|[ Ransom Note](https://leetcode.com/problems/ransom-note/)|[Python3](./solutions/383.%20Ransom%20Note.py)|52 ms|
 |434|[ Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[Python3](./solutions/434.%20Number%20of%20Segments%20in%20a%20String.py)|28 ms|
