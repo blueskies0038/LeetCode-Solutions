@@ -53,3 +53,4 @@
 |989|[ Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[Python3](./solutions/989.%20Add%20to%20Array-Form%20of%20Integer.py)|284 ms|
 |999|[ Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)|[Python3](./solutions/999.%20Available%20Captures%20for%20Rook.py)|28 ms|
 |1004|[ Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Python3](./solutions/1004.%20Max%20Consecutive%20Ones%20III.py)|636 ms|
+|1539|[ Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)|[Python3](./solutions/1539.%20Kth%20Missing%20Positive%20Number.py)|36 ms|
