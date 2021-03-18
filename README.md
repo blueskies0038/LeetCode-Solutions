@@ -29,6 +29,7 @@
 |209|[ Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Python3](./solutions/209.%20Minimum%20Size%20Subarray%20Sum.py)|60 ms|
 |228|[ Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Python3](./solutions/228.%20Summary%20Ranges.py)|40 ms|
 |232|[ Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Python3](./solutions/232.%20Implement%20Queue%20using%20Stacks.py)|20 ms|
+|257|[ Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Python3](./solutions/257.%20Binary%20Tree%20Paths.py)|32 ms|
 |268|[ Missing Number](https://leetcode.com/problems/missing-number/)|[Python3](./solutions/268.%20Missing%20Number.py)|168 ms|
 |328|[ Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Python3](./solutions/328.%20Odd%20Even%20Linked%20List.py)|32 ms|
 |372|[ Super Pow](https://leetcode.com/problems/super-pow/)|[Python3](./solutions/372.%20Super%20Pow.py)|84 ms|
