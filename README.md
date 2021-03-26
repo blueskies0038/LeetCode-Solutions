@@ -7,6 +7,7 @@
 |15|[ 3Sum](https://leetcode.com/problems/3sum/)|[Python3](./solutions/15.%203Sum.py)|932 ms|
 |16|[ 3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Python3](./solutions/16.%203Sum%20Closest.py)|128 ms|
 |18|[ 4Sum](https://leetcode.com/problems/4sum/)|[Python3](./solutions/18.%204Sum.py)|1204 ms|
+|22|[ Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Python3](./solutions/22.%20Generate%20Parentheses.py)|32 ms|
 |41|[ First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Python3](./solutions/41.%20First%20Missing%20Positive.py)|40 ms|
 |56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python3](./solutions/56.%20Merge%20Intervals.py)|80 ms|
 |57|[ Insert Interval](https://leetcode.com/problems/insert-interval/)|[Python3](./solutions/57.%20Insert%20Interval.py)|76 ms|
