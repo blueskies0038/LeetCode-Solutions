@@ -47,6 +47,7 @@
 |424|[ Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Python3](./solutions/424.%20Longest%20Repeating%20Character%20Replacement.py)|104 ms|
 |434|[ Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[Python3](./solutions/434.%20Number%20of%20Segments%20in%20a%20String.py)|28 ms|
 |445|[ Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[Python3](./solutions/445.%20Add%20Two%20Numbers%20II.py)|80 ms|
+|453|[ Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|[Python3](./solutions/453.%20Minimum%20Moves%20to%20Equal%20Array%20Elements.py)|280 ms|
 |462|[ Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)|[Python3](./solutions/462.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II.py)|120 ms|
 |476|[ Number Complement](https://leetcode.com/problems/number-complement/)|[Python3](./solutions/476.%20Number%20Complement.py)|28 ms|
 |567|[ Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[Python3](./solutions/567.%20Permutation%20in%20String.py)|60 ms|
