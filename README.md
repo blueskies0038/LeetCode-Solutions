@@ -44,6 +44,7 @@
 |328|[ Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Python3](./solutions/328.%20Odd%20Even%20Linked%20List.py)|32 ms|
 |372|[ Super Pow](https://leetcode.com/problems/super-pow/)|[Python3](./solutions/372.%20Super%20Pow.py)|84 ms|
 |383|[ Ransom Note](https://leetcode.com/problems/ransom-note/)|[Python3](./solutions/383.%20Ransom%20Note.py)|52 ms|
+|416|[ Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[Python3](./solutions/416.%20Partition%20Equal%20Subset%20Sum.py)|3032 ms|
 |424|[ Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Python3](./solutions/424.%20Longest%20Repeating%20Character%20Replacement.py)|104 ms|
 |434|[ Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[Python3](./solutions/434.%20Number%20of%20Segments%20in%20a%20String.py)|28 ms|
 |445|[ Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[Python3](./solutions/445.%20Add%20Two%20Numbers%20II.py)|80 ms|
