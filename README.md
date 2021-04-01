@@ -52,6 +52,7 @@
 |453|[ Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|[Python3](./solutions/453.%20Minimum%20Moves%20to%20Equal%20Array%20Elements.py)|280 ms|
 |462|[ Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)|[Python3](./solutions/462.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II.py)|120 ms|
 |476|[ Number Complement](https://leetcode.com/problems/number-complement/)|[Python3](./solutions/476.%20Number%20Complement.py)|28 ms|
+|504|[ Base 7](https://leetcode.com/problems/base-7/)|[Python3](./solutions/504.%20Base%207.py)|28 ms|
 |567|[ Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[Python3](./solutions/567.%20Permutation%20in%20String.py)|60 ms|
 |589|[ N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Python3](./solutions/589.%20N-ary%20Tree%20Preorder%20Traversal.py)|52 ms|
 |590|[ N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[Python3](./solutions/590.%20N-ary%20Tree%20Postorder%20Traversal.py)|44 ms|
