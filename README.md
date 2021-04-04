@@ -56,6 +56,7 @@
 |504|[ Base 7](https://leetcode.com/problems/base-7/)|[Python3](./solutions/504.%20Base%207.py)|28 ms|
 |506|[ Relative Ranks](https://leetcode.com/problems/relative-ranks/)|[Python3](./solutions/506.%20Relative%20Ranks.py)|52 ms|
 |513|[ Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)|[Python3](./solutions/513.%20Find%20Bottom%20Left%20Tree%20Value.py)|40 ms|
+|525|[ Contiguous Array](https://leetcode.com/problems/contiguous-array/)|[Python3](./solutions/525.%20Contiguous%20Array.py)||
 |567|[ Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[Python3](./solutions/567.%20Permutation%20in%20String.py)|60 ms|
 |589|[ N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Python3](./solutions/589.%20N-ary%20Tree%20Preorder%20Traversal.py)|52 ms|
 |590|[ N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[Python3](./solutions/590.%20N-ary%20Tree%20Postorder%20Traversal.py)|44 ms|
