@@ -68,6 +68,7 @@
 |643|[ Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|[Python3](./solutions/643.%20Maximum%20Average%20Subarray%20I.py)|780 ms|
 |662|[ Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[Python3](./solutions/662.%20Maximum%20Width%20of%20Binary%20Tree.py)|40 ms|
 |674|[ Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Python3](./solutions/674.%20Longest%20Continuous%20Increasing%20Subsequence.py)|76 ms|
+|700|[ Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python3](./solutions/700.%20Search%20in%20a%20Binary%20Search%20Tree.py)|76 ms|
 |720|[ Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)|[Python3](./solutions/720.%20Longest%20Word%20in%20Dictionary.py)|76 ms|
 |738|[ Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)|[Python3](./solutions/738.%20Monotone%20Increasing%20Digits.py)|32 ms|
 |788|[ Rotated Digits](https://leetcode.com/problems/rotated-digits/)|[Python3](./solutions/788.%20Rotated%20Digits.py)|48 ms|
