@@ -64,6 +64,7 @@
 |589|[ N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Python3](./solutions/589.%20N-ary%20Tree%20Preorder%20Traversal.py)|52 ms|
 |590|[ N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[Python3](./solutions/590.%20N-ary%20Tree%20Postorder%20Traversal.py)|44 ms|
 |637|[ Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Python3](./solutions/637.%20Average%20of%20Levels%20in%20Binary%20Tree.py)|44 ms|
+|662|[ Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[Python3](./solutions/662.%20Maximum%20Width%20of%20Binary%20Tree.py)|40 ms|
 |674|[ Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Python3](./solutions/674.%20Longest%20Continuous%20Increasing%20Subsequence.py)|76 ms|
 |720|[ Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)|[Python3](./solutions/720.%20Longest%20Word%20in%20Dictionary.py)|76 ms|
 |738|[ Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)|[Python3](./solutions/738.%20Monotone%20Increasing%20Digits.py)|32 ms|
