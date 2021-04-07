@@ -71,6 +71,7 @@
 |700|[ Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python3](./solutions/700.%20Search%20in%20a%20Binary%20Search%20Tree.py)|76 ms|
 |720|[ Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)|[Python3](./solutions/720.%20Longest%20Word%20in%20Dictionary.py)|76 ms|
 |738|[ Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)|[Python3](./solutions/738.%20Monotone%20Increasing%20Digits.py)|32 ms|
+|752|[ Open the Lock](https://leetcode.com/problems/open-the-lock/)|[Python3](./solutions/752.%20Open%20the%20Lock.py)|600 ms|
 |788|[ Rotated Digits](https://leetcode.com/problems/rotated-digits/)|[Python3](./solutions/788.%20Rotated%20Digits.py)|48 ms|
 |806|[ Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)|[Python3](./solutions/806.%20Number%20of%20Lines%20To%20Write%20String.py)|28 ms|
 |807|[ Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Python3](./solutions/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.py)|68 ms|
