@@ -69,6 +69,7 @@
 |662|[ Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[Python3](./solutions/662.%20Maximum%20Width%20of%20Binary%20Tree.py)|40 ms|
 |674|[ Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Python3](./solutions/674.%20Longest%20Continuous%20Increasing%20Subsequence.py)|76 ms|
 |700|[ Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python3](./solutions/700.%20Search%20in%20a%20Binary%20Search%20Tree.py)|76 ms|
+|701|[ Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Python3](./solutions/701.%20Insert%20into%20a%20Binary%20Search%20Tree.py)|140 ms|
 |720|[ Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)|[Python3](./solutions/720.%20Longest%20Word%20in%20Dictionary.py)|76 ms|
 |738|[ Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)|[Python3](./solutions/738.%20Monotone%20Increasing%20Digits.py)|32 ms|
 |752|[ Open the Lock](https://leetcode.com/problems/open-the-lock/)|[Python3](./solutions/752.%20Open%20the%20Lock.py)|600 ms|
