@@ -74,6 +74,7 @@
 |713|[ Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[Python3](./solutions/713.%20Subarray%20Product%20Less%20Than%20K.py)|1092 ms|
 |720|[ Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)|[Python3](./solutions/720.%20Longest%20Word%20in%20Dictionary.py)|76 ms|
 |738|[ Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)|[Python3](./solutions/738.%20Monotone%20Increasing%20Digits.py)|32 ms|
+|744|[ Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Python3](./solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.py)|100 ms|
 |752|[ Open the Lock](https://leetcode.com/problems/open-the-lock/)|[Python3](./solutions/752.%20Open%20the%20Lock.py)|600 ms|
 |788|[ Rotated Digits](https://leetcode.com/problems/rotated-digits/)|[Python3](./solutions/788.%20Rotated%20Digits.py)|48 ms|
 |806|[ Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)|[Python3](./solutions/806.%20Number%20of%20Lines%20To%20Write%20String.py)|28 ms|
