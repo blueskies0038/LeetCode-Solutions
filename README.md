@@ -41,6 +41,7 @@
 |257|[ Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Python3](./solutions/257.%20Binary%20Tree%20Paths.py)|32 ms|
 |268|[ Missing Number](https://leetcode.com/problems/missing-number/)|[Python3](./solutions/268.%20Missing%20Number.py)|168 ms|
 |279|[ Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Python3](./solutions/279.%20Perfect%20Squares.py)|312 ms|
+|322|[ Coin Change](https://leetcode.com/problems/coin-change/)|[Python3](./solutions/322.%20Coin%20Change.py)|1460 ms|
 |328|[ Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Python3](./solutions/328.%20Odd%20Even%20Linked%20List.py)|32 ms|
 |372|[ Super Pow](https://leetcode.com/problems/super-pow/)|[Python3](./solutions/372.%20Super%20Pow.py)|84 ms|
 |378|[ Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[Python3](./solutions/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.py)|208 ms|
