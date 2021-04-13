@@ -78,6 +78,7 @@
 |744|[ Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Python3](./solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.py)|100 ms|
 |747|[ Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|[Python3](./solutions/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.py)|36 ms|
 |752|[ Open the Lock](https://leetcode.com/problems/open-the-lock/)|[Python3](./solutions/752.%20Open%20the%20Lock.py)|600 ms|
+|783|[ Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[Python3](./solutions/783.%20Minimum%20Distance%20Between%20BST%20Nodes.py)|28 ms|
 |788|[ Rotated Digits](https://leetcode.com/problems/rotated-digits/)|[Python3](./solutions/788.%20Rotated%20Digits.py)|48 ms|
 |806|[ Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)|[Python3](./solutions/806.%20Number%20of%20Lines%20To%20Write%20String.py)|28 ms|
 |807|[ Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Python3](./solutions/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.py)|68 ms|
