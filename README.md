@@ -98,6 +98,7 @@
 |917|[ Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[Python3](./solutions/917.%20Reverse%20Only%20Letters.py)|32 ms|
 |925|[ Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[Python3](./solutions/925.%20Long%20Pressed%20Name.py)|32 ms|
 |929|[ Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[Python3](./solutions/929.%20Unique%20Email%20Addresses.py)|48 ms|
+|931|[ Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[Python3](./solutions/931.%20Minimum%20Falling%20Path%20Sum.py)|108 ms|
 |935|[ Knight Dialer](https://leetcode.com/problems/knight-dialer/)|[Python3](./solutions/935.%20Knight%20Dialer.py)|1068 ms|
 |961|[ N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[Python3](./solutions/961.%20N-Repeated%20Element%20in%20Size%202N%20Array.py)|212 ms|
 |973|[ K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Python3](./solutions/973.%20K%20Closest%20Points%20to%20Origin.py)|688 ms|
