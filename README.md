@@ -100,6 +100,7 @@
 |904|[ Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[Python3](./solutions/904.%20Fruit%20Into%20Baskets.py)|848 ms|
 |915|[ Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)|[Python3](./solutions/915.%20Partition%20Array%20into%20Disjoint%20Intervals.py)|176 ms|
 |917|[ Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[Python3](./solutions/917.%20Reverse%20Only%20Letters.py)|32 ms|
+|918|[ Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)|[Python3](./solutions/918.%20Maximum%20Sum%20Circular%20Subarray.py)|420 ms|
 |925|[ Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[Python3](./solutions/925.%20Long%20Pressed%20Name.py)|32 ms|
 |929|[ Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[Python3](./solutions/929.%20Unique%20Email%20Addresses.py)|48 ms|
 |931|[ Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[Python3](./solutions/931.%20Minimum%20Falling%20Path%20Sum.py)|108 ms|
