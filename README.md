@@ -107,6 +107,7 @@
 |929|[ Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[Python3](./solutions/929.%20Unique%20Email%20Addresses.py)|48 ms|
 |931|[ Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[Python3](./solutions/931.%20Minimum%20Falling%20Path%20Sum.py)|108 ms|
 |935|[ Knight Dialer](https://leetcode.com/problems/knight-dialer/)|[Python3](./solutions/935.%20Knight%20Dialer.py)|1068 ms|
+|944|[ Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)|[Python3](./solutions/944.%20Delete%20Columns%20to%20Make%20Sorted.py)|176 ms|
 |961|[ N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[Python3](./solutions/961.%20N-Repeated%20Element%20in%20Size%202N%20Array.py)|212 ms|
 |973|[ K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Python3](./solutions/973.%20K%20Closest%20Points%20to%20Origin.py)|688 ms|
 |977|[ Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Python3](./solutions/977.%20Squares%20of%20a%20Sorted%20Array.py)|244 ms|
