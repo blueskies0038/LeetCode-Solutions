@@ -17,6 +17,7 @@
 |63|[ Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Python3](./solutions/63.%20Unique%20Paths%20II.py)|44 ms|
 |64|[ Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Python3](./solutions/64.%20Minimum%20Path%20Sum.py)|100 ms|
 |76|[ Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Python3](./solutions/76.%20Minimum%20Window%20Substring.py)|88 ms|
+|77|[ Combinations](https://leetcode.com/problems/combinations/)|[Python3](./solutions/77.%20Combinations.py)|604 ms|
 |78|[ Subsets](https://leetcode.com/problems/subsets/)|[Python3](./solutions/78.%20Subsets.py)|32 ms|
 |90|[ Subsets II](https://leetcode.com/problems/subsets-ii/)|[Python3](./solutions/90.%20Subsets%20II.py)|32 ms|
 |101|[ Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Python3](./solutions/101.%20Symmetric%20Tree.py)|36 ms|
