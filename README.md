@@ -14,6 +14,7 @@
 |41|[ First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Python3](./solutions/41.%20First%20Missing%20Positive.py)|40 ms|
 |56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python3](./solutions/56.%20Merge%20Intervals.py)|80 ms|
 |57|[ Insert Interval](https://leetcode.com/problems/insert-interval/)|[Python3](./solutions/57.%20Insert%20Interval.py)|76 ms|
+|61|[ Rotate List](https://leetcode.com/problems/rotate-list/)|[Python3](./solutions/61.%20Rotate%20List.py)|36 ms|
 |63|[ Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Python3](./solutions/63.%20Unique%20Paths%20II.py)|44 ms|
 |64|[ Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Python3](./solutions/64.%20Minimum%20Path%20Sum.py)|100 ms|
 |76|[ Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Python3](./solutions/76.%20Minimum%20Window%20Substring.py)|88 ms|
