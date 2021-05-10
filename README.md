@@ -128,5 +128,6 @@
 |999|[ Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)|[Python3](./solutions/999.%20Available%20Captures%20for%20Rook.py)|28 ms|
 |1002|[ Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Python3](./solutions/1002.%20Find%20Common%20Characters.py)|40 ms|
 |1004|[ Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Python3](./solutions/1004.%20Max%20Consecutive%20Ones%20III.py)|636 ms|
+|1049|[ Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)|[Python3](./solutions/1049.%20Last%20Stone%20Weight%20II.py)|60 ms|
 |1539|[ Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)|[Python3](./solutions/1539.%20Kth%20Missing%20Positive%20Number.py)|36 ms|
 |1572|[ Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)|[Python3](./solutions/1572.%20Matrix%20Diagonal%20Sum.py)|108 ms|
