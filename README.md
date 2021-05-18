@@ -131,6 +131,7 @@
 |1009|[ Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Python3](./solutions/1009.%20Complement%20of%20Base%2010%20Integer.py)|32 ms|
 |1014|[ Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/)|[Python3](./solutions/1014.%20Best%20Sightseeing%20Pair.py)|480 ms|
 |1018|[ Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/)|[Python3](./solutions/1018.%20Binary%20Prefix%20Divisible%20By%205.py)|108 ms|
+|1021|[ Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)|[Python3](./solutions/1021.%20Remove%20Outermost%20Parentheses.py)|28 ms|
 |1037|[ Valid Boomerang](https://leetcode.com/problems/valid-boomerang/)|[Python3](./solutions/1037.%20Valid%20Boomerang.py)|32 ms|
 |1038|[ Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[Python3](./solutions/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.py)|28 ms|
 |1049|[ Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)|[Python3](./solutions/1049.%20Last%20Stone%20Weight%20II.py)|60 ms|
