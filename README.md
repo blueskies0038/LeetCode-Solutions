@@ -130,6 +130,7 @@
 |1004|[ Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Python3](./solutions/1004.%20Max%20Consecutive%20Ones%20III.py)|636 ms|
 |1009|[ Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Python3](./solutions/1009.%20Complement%20of%20Base%2010%20Integer.py)|32 ms|
 |1014|[ Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/)|[Python3](./solutions/1014.%20Best%20Sightseeing%20Pair.py)|480 ms|
+|1017|[ Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/)|[Python3](./solutions/1017.%20Convert%20to%20Base%20-2.py)|28 ms|
 |1018|[ Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/)|[Python3](./solutions/1018.%20Binary%20Prefix%20Divisible%20By%205.py)|108 ms|
 |1021|[ Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)|[Python3](./solutions/1021.%20Remove%20Outermost%20Parentheses.py)|28 ms|
 |1037|[ Valid Boomerang](https://leetcode.com/problems/valid-boomerang/)|[Python3](./solutions/1037.%20Valid%20Boomerang.py)|32 ms|
