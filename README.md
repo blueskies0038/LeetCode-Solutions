@@ -137,6 +137,7 @@
 |1038|[ Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[Python3](./solutions/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.py)|28 ms|
 |1049|[ Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)|[Python3](./solutions/1049.%20Last%20Stone%20Weight%20II.py)|60 ms|
 |1051|[ Height Checker](https://leetcode.com/problems/height-checker/)|[Python3](./solutions/1051.%20Height%20Checker.py)|40 ms|
+|1079|[ Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/)|[Python3](./solutions/1079.%20Letter%20Tile%20Possibilities.py)|76 ms|
 |1103|[ Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)|[Python3](./solutions/1103.%20Distribute%20Candies%20to%20People.py)|36 ms|
 |1539|[ Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)|[Python3](./solutions/1539.%20Kth%20Missing%20Positive%20Number.py)|36 ms|
 |1572|[ Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)|[Python3](./solutions/1572.%20Matrix%20Diagonal%20Sum.py)|108 ms|
