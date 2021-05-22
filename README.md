@@ -125,6 +125,7 @@
 |977|[ Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Python3](./solutions/977.%20Squares%20of%20a%20Sorted%20Array.py)|244 ms|
 |986|[ Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[Python3](./solutions/986.%20Interval%20List%20Intersections.py)|152 ms|
 |989|[ Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[Python3](./solutions/989.%20Add%20to%20Array-Form%20of%20Integer.py)|284 ms|
+|997|[ Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[Python3](./solutions/997.%20Find%20the%20Town%20Judge.py)|708 ms|
 |999|[ Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)|[Python3](./solutions/999.%20Available%20Captures%20for%20Rook.py)|28 ms|
 |1002|[ Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Python3](./solutions/1002.%20Find%20Common%20Characters.py)|40 ms|
 |1004|[ Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Python3](./solutions/1004.%20Max%20Consecutive%20Ones%20III.py)|636 ms|
