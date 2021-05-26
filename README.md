@@ -139,6 +139,7 @@
 |1021|[ Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)|[Python3](./solutions/1021.%20Remove%20Outermost%20Parentheses.py)|28 ms|
 |1037|[ Valid Boomerang](https://leetcode.com/problems/valid-boomerang/)|[Python3](./solutions/1037.%20Valid%20Boomerang.py)|32 ms|
 |1038|[ Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[Python3](./solutions/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.py)|28 ms|
+|1047|[ Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[Python3](./solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.py)|72 ms|
 |1049|[ Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)|[Python3](./solutions/1049.%20Last%20Stone%20Weight%20II.py)|60 ms|
 |1051|[ Height Checker](https://leetcode.com/problems/height-checker/)|[Python3](./solutions/1051.%20Height%20Checker.py)|40 ms|
 |1079|[ Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/)|[Python3](./solutions/1079.%20Letter%20Tile%20Possibilities.py)|76 ms|
