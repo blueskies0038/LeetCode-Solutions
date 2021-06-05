@@ -104,6 +104,7 @@
 |859|[ Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[Python3](./solutions/859.%20Buddy%20Strings.py)|40 ms|
 |867|[ Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Python3](./solutions/867.%20Transpose%20Matrix.py)|76 ms|
 |868|[ Binary Gap](https://leetcode.com/problems/binary-gap/)|[Python3](./solutions/868.%20Binary%20Gap.py)|32 ms|
+|875|[ Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[Python3](./solutions/875.%20Koko%20Eating%20Bananas.py)|472 ms|
 |876|[ Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python3](./solutions/876.%20Middle%20of%20the%20Linked%20List.py)|32 ms|
 |890|[ Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[Python3](./solutions/890.%20Find%20and%20Replace%20Pattern.py)|32 ms|
 |892|[ Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)|[Python3](./solutions/892.%20Surface%20Area%20of%203D%20Shapes.py)|84 ms|
