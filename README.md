@@ -82,6 +82,7 @@
 |662|[ Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[Python3](./solutions/662.%20Maximum%20Width%20of%20Binary%20Tree.py)|40 ms|
 |674|[ Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Python3](./solutions/674.%20Longest%20Continuous%20Increasing%20Subsequence.py)|76 ms|
 |696|[ Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|[Python3](./solutions/696.%20Count%20Binary%20Substrings.py)|176 ms|
+|697|[ Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)|[Python3](./solutions/697.%20Degree%20of%20an%20Array.py)|208 ms|
 |700|[ Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python3](./solutions/700.%20Search%20in%20a%20Binary%20Search%20Tree.py)|76 ms|
 |701|[ Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Python3](./solutions/701.%20Insert%20into%20a%20Binary%20Search%20Tree.py)|140 ms|
 |703|[ Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Python3](./solutions/703.%20Kth%20Largest%20Element%20in%20a%20Stream.py)|88 ms|
