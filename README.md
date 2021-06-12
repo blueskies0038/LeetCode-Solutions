@@ -109,6 +109,7 @@
 |859|[ Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[Python3](./solutions/859.%20Buddy%20Strings.py)|40 ms|
 |867|[ Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Python3](./solutions/867.%20Transpose%20Matrix.py)|76 ms|
 |868|[ Binary Gap](https://leetcode.com/problems/binary-gap/)|[Python3](./solutions/868.%20Binary%20Gap.py)|32 ms|
+|870|[ Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/)|[Python3](./solutions/870.%20Advantage%20Shuffle.py)|344 ms|
 |874|[ Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/)|[Python3](./solutions/874.%20Walking%20Robot%20Simulation.py)|340 ms|
 |875|[ Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[Python3](./solutions/875.%20Koko%20Eating%20Bananas.py)|472 ms|
 |876|[ Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python3](./solutions/876.%20Middle%20of%20the%20Linked%20List.py)|32 ms|
