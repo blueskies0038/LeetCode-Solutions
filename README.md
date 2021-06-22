@@ -49,6 +49,7 @@
 |241|[ Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[Python3](./solutions/241.%20Different%20Ways%20to%20Add%20Parentheses.py)|36 ms|
 |257|[ Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Python3](./solutions/257.%20Binary%20Tree%20Paths.py)|32 ms|
 |268|[ Missing Number](https://leetcode.com/problems/missing-number/)|[Python3](./solutions/268.%20Missing%20Number.py)|168 ms|
+|274|[ H-Index](https://leetcode.com/problems/h-index/)|[Python3](./solutions/274.%20H-Index.py)|32 ms|
 |279|[ Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Python3](./solutions/279.%20Perfect%20Squares.py)|312 ms|
 |322|[ Coin Change](https://leetcode.com/problems/coin-change/)|[Python3](./solutions/322.%20Coin%20Change.py)|1460 ms|
 |328|[ Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Python3](./solutions/328.%20Odd%20Even%20Linked%20List.py)|32 ms|
