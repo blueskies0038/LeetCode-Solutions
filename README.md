@@ -44,6 +44,7 @@
 |216|[ Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[Python3](./solutions/216.%20Combination%20Sum%20III.py)|32 ms|
 |221|[ Maximal Square](https://leetcode.com/problems/maximal-square/)|[Python3](./solutions/221.%20Maximal%20Square.py)|180 ms|
 |222|[ Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Python3](./solutions/222.%20Count%20Complete%20Tree%20Nodes.py)|84 ms|
+|223|[ Rectangle Area](https://leetcode.com/problems/rectangle-area/)|[Python3](./solutions/223.%20Rectangle%20Area.py)|48 ms|
 |228|[ Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Python3](./solutions/228.%20Summary%20Ranges.py)|40 ms|
 |232|[ Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Python3](./solutions/232.%20Implement%20Queue%20using%20Stacks.py)|20 ms|
 |236|[ Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Python3](./solutions/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.py)|68 ms|
