@@ -14,6 +14,7 @@
 |34|[ Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Python3](./solutions/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py)|76 ms|
 |40|[ Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Python3](./solutions/40.%20Combination%20Sum%20II.py)|92 ms|
 |41|[ First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Python3](./solutions/41.%20First%20Missing%20Positive.py)|40 ms|
+|47|[ Permutations II](https://leetcode.com/problems/permutations-ii/)|[Python3](./solutions/47.%20Permutations%20II.py)|60 ms|
 |56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python3](./solutions/56.%20Merge%20Intervals.py)|80 ms|
 |57|[ Insert Interval](https://leetcode.com/problems/insert-interval/)|[Python3](./solutions/57.%20Insert%20Interval.py)|76 ms|
 |61|[ Rotate List](https://leetcode.com/problems/rotate-list/)|[Python3](./solutions/61.%20Rotate%20List.py)|36 ms|
