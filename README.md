@@ -60,6 +60,7 @@
 |275|[ H-Index II](https://leetcode.com/problems/h-index-ii/)|[Python3](./solutions/275.%20H-Index%20II.py)|140 ms|
 |279|[ Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Python3](./solutions/279.%20Perfect%20Squares.py)|312 ms|
 |303|[ Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Python3](./solutions/303.%20Range%20Sum%20Query%20-%20Immutable.py)|80 ms|
+|316|[ Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|[Python3](./solutions/316.%20Remove%20Duplicate%20Letters.py)|56 ms|
 |322|[ Coin Change](https://leetcode.com/problems/coin-change/)|[Python3](./solutions/322.%20Coin%20Change.py)|1460 ms|
 |328|[ Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Python3](./solutions/328.%20Odd%20Even%20Linked%20List.py)|32 ms|
 |337|[ House Robber III](https://leetcode.com/problems/house-robber-iii/)|[Python3](./solutions/337.%20House%20Robber%20III.py)|36 ms|
