@@ -155,6 +155,7 @@
 |965|[ Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[Python3](./solutions/965.%20Univalued%20Binary%20Tree.py)|20 ms|
 |973|[ K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Python3](./solutions/973.%20K%20Closest%20Points%20to%20Origin.py)|688 ms|
 |977|[ Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Python3](./solutions/977.%20Squares%20of%20a%20Sorted%20Array.py)|244 ms|
+|979|[ Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)|[Python3](./solutions/979.%20Distribute%20Coins%20in%20Binary%20Tree.py)|76 ms|
 |986|[ Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[Python3](./solutions/986.%20Interval%20List%20Intersections.py)|152 ms|
 |989|[ Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[Python3](./solutions/989.%20Add%20to%20Array-Form%20of%20Integer.py)|284 ms|
 |993|[ Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|[Python3](./solutions/993.%20Cousins%20in%20Binary%20Tree.py)|36 ms|
