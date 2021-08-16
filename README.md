@@ -101,6 +101,7 @@
 |670|[ Maximum Swap](https://leetcode.com/problems/maximum-swap/)|[Python3](./solutions/670.%20Maximum%20Swap.py)|36 ms|
 |674|[ Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Python3](./solutions/674.%20Longest%20Continuous%20Increasing%20Subsequence.py)|76 ms|
 |678|[ Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)|[Python3](./solutions/678.%20Valid%20Parenthesis%20String.py)|32 ms|
+|693|[ Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[Python3](./solutions/693.%20Binary%20Number%20with%20Alternating%20Bits.py)|28 ms|
 |695|[ Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Python3](./solutions/695.%20Max%20Area%20of%20Island.py)|128 ms|
 |696|[ Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|[Python3](./solutions/696.%20Count%20Binary%20Substrings.py)|176 ms|
 |697|[ Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)|[Python3](./solutions/697.%20Degree%20of%20an%20Array.py)|208 ms|
