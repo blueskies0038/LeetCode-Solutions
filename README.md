@@ -43,6 +43,7 @@
 |147|[ Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Python3](./solutions/147.%20Insertion%20Sort%20List.py)|132 ms|
 |165|[ Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[Python3](./solutions/165.%20Compare%20Version%20Numbers.py)|24 ms|
 |179|[ Largest Number](https://leetcode.com/problems/largest-number/)|[Python3](./solutions/179.%20Largest%20Number.py)|72 ms|
+|190|[ Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Python3](./solutions/190.%20Reverse%20Bits.py)|36 ms|
 |199|[ Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Python3](./solutions/199.%20Binary%20Tree%20Right%20Side%20View.py)|36 ms|
 |209|[ Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Python3](./solutions/209.%20Minimum%20Size%20Subarray%20Sum.py)|60 ms|
 |213|[ House Robber II](https://leetcode.com/problems/house-robber-ii/)|[Python3](./solutions/213.%20House%20Robber%20II.py)|32 ms|
