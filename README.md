@@ -62,6 +62,7 @@
 |274|[ H-Index](https://leetcode.com/problems/h-index/)|[Python3](./solutions/274.%20H-Index.py)|32 ms|
 |275|[ H-Index II](https://leetcode.com/problems/h-index-ii/)|[Python3](./solutions/275.%20H-Index%20II.py)|140 ms|
 |279|[ Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Python3](./solutions/279.%20Perfect%20Squares.py)|312 ms|
+|284|[ Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[Python3](./solutions/284.%20Peeking%20Iterator.py)|42 ms|
 |303|[ Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Python3](./solutions/303.%20Range%20Sum%20Query%20-%20Immutable.py)|80 ms|
 |316|[ Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|[Python3](./solutions/316.%20Remove%20Duplicate%20Letters.py)|56 ms|
 |322|[ Coin Change](https://leetcode.com/problems/coin-change/)|[Python3](./solutions/322.%20Coin%20Change.py)|1460 ms|
