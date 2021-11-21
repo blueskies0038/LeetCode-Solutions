@@ -59,6 +59,7 @@
 |236|[ Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Python3](./solutions/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.py)|68 ms|
 |241|[ Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[Python3](./solutions/241.%20Different%20Ways%20to%20Add%20Parentheses.py)|36 ms|
 |257|[ Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Python3](./solutions/257.%20Binary%20Tree%20Paths.py)|32 ms|
+|264|[ Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[Python3](./solutions/264.%20Ugly%20Number%20II.py)|317 ms|
 |268|[ Missing Number](https://leetcode.com/problems/missing-number/)|[Python3](./solutions/268.%20Missing%20Number.py)|168 ms|
 |274|[ H-Index](https://leetcode.com/problems/h-index/)|[Python3](./solutions/274.%20H-Index.py)|32 ms|
 |275|[ H-Index II](https://leetcode.com/problems/h-index-ii/)|[Python3](./solutions/275.%20H-Index%20II.py)|140 ms|
