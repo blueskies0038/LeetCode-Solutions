@@ -106,6 +106,7 @@
 |648|[ Replace Words](https://leetcode.com/problems/replace-words/)|[Python3](./solutions/648.%20Replace%20Words.py)|188 ms|
 |658|[ Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[Python3](./solutions/658.%20Find%20K%20Closest%20Elements.py)|284 ms|
 |662|[ Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[Python3](./solutions/662.%20Maximum%20Width%20of%20Binary%20Tree.py)|40 ms|
+|667|[ Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/)|[Python3](./solutions/667.%20Beautiful%20Arrangement%20II.py)|1464 ms|
 |670|[ Maximum Swap](https://leetcode.com/problems/maximum-swap/)|[Python3](./solutions/670.%20Maximum%20Swap.py)|36 ms|
 |674|[ Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Python3](./solutions/674.%20Longest%20Continuous%20Increasing%20Subsequence.py)|76 ms|
 |678|[ Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)|[Python3](./solutions/678.%20Valid%20Parenthesis%20String.py)|32 ms|
