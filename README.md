@@ -124,6 +124,7 @@
 |703|[ Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Python3](./solutions/703.%20Kth%20Largest%20Element%20in%20a%20Stream.py)|88 ms|
 |713|[ Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[Python3](./solutions/713.%20Subarray%20Product%20Less%20Than%20K.py)|1092 ms|
 |720|[ Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)|[Python3](./solutions/720.%20Longest%20Word%20in%20Dictionary.py)|76 ms|
+|729|[ My Calendar I](https://leetcode.com/problems/my-calendar-i/)|[Python3](./solutions/729.%20My%20Calendar%20I.py)|240 ms|
 |738|[ Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)|[Python3](./solutions/738.%20Monotone%20Increasing%20Digits.py)|32 ms|
 |740|[ Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|[Python3](./solutions/740.%20Delete%20and%20Earn.py)|116 ms|
 |744|[ Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Python3](./solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.py)|100 ms|
